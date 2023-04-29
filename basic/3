@@ -1,0 +1,6 @@
+Challenge:
+This time Network Security Sam remembered to upload the password file, but there were deeper problems than that.
+Figure out the password
+
+Solution:
+View the page source. Search for password. You will find a password.php file . Go to it in the browser and you will find the password to use!
